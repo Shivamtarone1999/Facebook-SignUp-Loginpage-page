@@ -1,2 +1,185 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+    <title>Facebook Login</title>
+        <link rel="stylesheet" href="style.css" type="text/css">
+    </head>
+    <body style="height: 91px;background-color: #dfe3ee;">
+    <div>
+        <div class="header">
+        <div class="facebook">
+        facebook</div>
+            <div>
+            <form class="T1">
+                <table>
+                <tr>
+                    <td> E-mail or Mob. Number </td>
+                    
+                    <td> Password </td>
+                    </tr>
+                    <tr>
+                    <td><input type="text"> </td>
+                        <td><input type="password"> </td>
+                        <td><input type="submit" value="Log-in"> </td>
+                     </tr>
+                    <tr>
+                    <td class="c1"> <input type="checkbox">keep me log-in </td>
+                    <td class="c1">Forgotten Password?</td>    
+                    </tr>
+                </table>
+                </form>
+            </div>
+        </div>
+        <div class="main2">
+        <div>
+            <p style="font-size: 20px;position: relative;left: 25px;">Facebook help you to connect and share with the <br> people in your life.</p> </div>
+        <div>
+            <img src="facebook%202.png" class="img1" style="left: 25px">
+            </div>
+            <div class="T2">
+            <form>
+                <table>
+                    <tr>
+                    <td>
+                        <p style="font-size: 30px;position: relative;top: -60px;">Create an account.</p>
+                    </td>
+                    </tr>
+                    <tr>
+                    <td>
+                        <p style="font-size: 21px;position: relative;top:-60px">It's free and always will be.</p>
+                        </td>
+                    
+                    </tr>
+                <tr style="font-size: 10px;position: relative;top: -15px;">
+                        <td><input type="text" placeholder="First Name" class="f1"></td>&nbsp;&nbsp;<td><input type="text" placeholder="Last Name" class="f2 "></td></tr><br>
+                    <tr>
+
+                    <td><input type="email" placeholder="E-mail" class="f3"></td></tr><br>
+                    <tr>
+                        <td><input type="emil" placeholder="Re-enter the E-mail" class="f4"> </td></tr><br>
+                    <tr>
+                        <td><input type="password" placeholder="Password" class="f5"></td></tr><br>
+                    <tr>
+                        <td style="position: relative;top:-60px"><strong >Birthday</strong></td></tr><br>
+                    <td>
+                        <select>
+                            <option>Day</option>
+                            <option>1</option>
+                            <option>2</option>
+                            <option>3</option>
+                            <option>4</option>
+                            <option>5</option>
+                            <option>6</option>
+                            <option>7</option>
+                            <option>8</option>
+                            <option>9</option>
+                            <option>10</option>
+                            <option>11</option>
+                            <option>12</option>
+                            <option>13</option>
+                            <option>14</option>
+                            <option>15</option>
+                            <option>16</option>
+                            <option>17</option>
+                            <option>18</option>
+                            <option>19</option>
+                            <option>20</option>
+                            <option>21</option>
+                            <option>22</option>
+                            <option>23</option>
+                            <option>24</option>
+                            <option>25</option>
+                            <option>26</option>
+                            <option>27</option>
+                            <option>28</option>
+                            <option>29</option>
+                            <option>30</option>
+                            <option>31</option>
+                      </select>
+                   
+                    <select>
+                        <option>Month</option>
+                         <option>Jan</option>
+                         <option>Feb</option>
+                         <option>Mar</option>
+                         <option>Apr</option>
+                         <option>May</option>
+                         <option>June</option>
+                         <option>July</option>
+                         <option>August</option>
+                         <option>Sept</option>
+                         <option>Oct</option>
+                         <option>Nov</option>
+                         <option>Dec</option>
+                    </select>
+                    
+                    
+                    <select>
+                        <option>Year</option>
+                        <option>2018</option>
+                         <option>2017</option>
+                         <option>2016</option>
+                         <option>2015</option>
+                         <option>2014</option>
+                         <option>2013</option>
+                         <option>2012</option>
+                         <option>2011</option>
+                         <option>2010</option>
+                         <option>2009</option>
+                         <option>2008</option>
+                         <option>2007</option>
+                         <option>2006</option>
+                         <option>2005</option>
+                         <option>2004</option>
+                         <option>2003</option>
+                         <option>2002</option>
+                         <option>2001</option>
+                         <option>2000</option>
+                         <option>1999</option>
+                         <option>1998</option>
+                         <option>1997</option>
+                        
+                        
+                        </select>
+                        <a href="#" style="position: relative ; top: -80px">
+                        <span style="font-size: 10px;float: left">Why do I need to provide my</span><br>
+                        <span style="font-size: 10px;float: left;position: relative;">date of birth?</span><br></a>
+                            
+                    </td>
+        <tr>
+                        <td style="position: relative ; top: -30px">
+                        
+                            <input type="radio" name="a"><span style="font-size: 20px">Male</span>&nbsp;&nbsp;&nbsp;
+                            <input type="radio" name="a"><span style="font-size: 20px">Female</span>
+                            
+                            </td>
+                        
+                        </tr>
+                    <tr>
+                    <td style="position: relative;top: -25px" >
+                        
+                        <div>
+                        <p style="font-size: 12px">
+                            By clicking create an account, you agree to our
+                        <a style="font-size: 12px" href="#">Terms</a>         </p>
+                        
+                            <p style="font-size: 12px">Confirm that you have read our <a style="font-size: 12px" href="#">Data Policy</a>,including our <a  style="font-size: 12px" href="#">Cookies</a> </p>
+                        
+                        <p> <a style="font-size: 12px;float: left">Use Policy</a><p style="font-size: 12px">You may receive SMS message notification from </p>
+                        <p style="font-size: 12px">Facebook and can opt out at any time. </p>
+                        </div>
+                        <button class="T3">Create an account</button><br><br>
+                        <a href="#" style="float:left;"><p>Create a page</p></a><p>for celebrity,band or business.</p>
+                    
+                        </td>
+                    </tr>
+                 </table>
+                </form>
+            
+            </div>
+        </div>
+        </div>
+    </body>
+</html>
+
